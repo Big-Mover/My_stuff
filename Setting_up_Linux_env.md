@@ -63,7 +63,11 @@
    # install spark
    pip3 install pyspark
    ```
-6. Install tinytex _**in R**_
+6. Install R if not already installed
+   ```powershell
+   sudo apt-get install r-base
+   ```
+9. Install tinytex _**in R**_
    ```powershell
    install.packages('tinytex')
    tinytex::install_tinytex()
