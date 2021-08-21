@@ -65,7 +65,7 @@
    ```
 6. Install R if not already installed
    ```powershell
-   sudo apt-get install r-base
+   sudo apt-get install r-base -y
    ```
 9. Install tinytex _**in R**_
    ```powershell
