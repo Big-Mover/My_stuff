@@ -44,7 +44,6 @@
 ## 3. Installing Packages
 1. ```powershell
    sudo apt update
-   sudo apt upgrade -y
    ``` 
    ```powershell
    sudo apt upgrade -y
