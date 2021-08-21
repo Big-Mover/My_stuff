@@ -45,7 +45,11 @@
 1. ```powershell
    sudo apt update
    sudo apt upgrade -y
-    ``` 
+   ``` 
+   ```powershell
+   sudo apt upgrade -y
+   ```
+    
 2. ```powershell
    sudo apt install python3-pip -y
    pip3 install pandas numpy scipy scikit-learn matplotlib seaborn folium jupyterlab pyarrow
