@@ -1,5 +1,4 @@
 ## 1. Installing WSL
-_If you do not have Windows Store or would like to install using powershell, go to the very end of this Readme!_
 
 1. Open PowerShell as Administrator and run:
     ```powershell
