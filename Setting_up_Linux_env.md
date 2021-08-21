@@ -48,7 +48,7 @@
     ``` 
 2. ```powershell
    sudo apt install python3-pip -y
-   pip3 install pandas numpy scipy scikit-learn matplotlib seaborn folium bokeh jupyterlab pyarrow
+   pip3 install pandas numpy scipy scikit-learn matplotlib seaborn folium jupyterlab pyarrow
    ```
 3. ```powershell
    cd /mnt/d/'Program Files'/GitHub/
