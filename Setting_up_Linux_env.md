@@ -65,7 +65,7 @@
    ```
    
 ## 4. Installing R
-1. Install R if not already installed: https://cran.r-project.org/bin/windows/base/R-4.1.1-win.exe
+1. Install R if not already installed: https://cran.r-project.org/bin/windows/base/
 2. Install RStudio: https://www.rstudio.com/products/rstudio/download/#download
 3. Install tinytex _**in R**_
    ```powershell
