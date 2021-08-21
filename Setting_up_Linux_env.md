@@ -43,12 +43,8 @@
 
 ## 3. Installing Packages
 1. ```powershell
-   sudo apt update
-   ``` 
-   ```powershell
-   sudo apt upgrade -y
-   ```
-    
+   sudo apt update && sudo apt -y upgrade
+   ```    
 2. ```powershell
    sudo apt install python3-pip -y
    pip3 install pandas numpy scipy scikit-learn matplotlib seaborn folium jupyterlab pyarrow
