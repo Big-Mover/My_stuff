@@ -68,9 +68,14 @@
 1. Install R if not already installed: https://cran.r-project.org/bin/windows/base/
 2. Install RStudio: https://www.rstudio.com/products/rstudio/download/#download
 3. Install tinytex _**in R**_
-   ```powershell
+   ```r
    install.packages('tinytex')
    tinytex::install_tinytex()
    # to uninstall TinyTeX, run tinytex::uninstall_tinytex()
    ```
-   
+4. Updating R: 
+   ```r
+   install.packages("installr")
+   library(installr)
+   updateR()
+   ```
