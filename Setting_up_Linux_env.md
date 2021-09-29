@@ -64,7 +64,13 @@
    pip3 install pyspark
    ```
    
-## 4. Installing R
+## 4. Connecting WSL to VS Code
+1. Intall Remote - WSL in VS Code: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+2. Follow "Getting started" instructions
+
+* Backup guide: https://code.visualstudio.com/docs/remote/wsl-tutorial
+
+## 5. Installing R
 1. Install R if not already installed: https://cran.r-project.org/bin/windows/base/
 2. Install RStudio: https://www.rstudio.com/products/rstudio/download/#download
 3. Install tinytex _**in R**_
