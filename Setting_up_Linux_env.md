@@ -66,7 +66,7 @@
    
 ## 4. Connecting WSL to VS Code
 1. Intall Remote - WSL in VS Code: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
-2. Follow "Getting started" instructions
+2. Follow "Getting started" instructions.
 
 * Backup guide: https://code.visualstudio.com/docs/remote/wsl-tutorial
 
