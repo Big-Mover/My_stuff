@@ -65,14 +65,14 @@
    ```
    
 ## 4. Connecting WSL to VS Code
-1. Intall Remote - WSL in VS Code: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+1. Intall Remote - WSL in VS Code linked [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl).
 2. Follow "Getting started" instructions.
 
-* Backup guide: https://code.visualstudio.com/docs/remote/wsl-tutorial
+* Backup guide linked [here](https://code.visualstudio.com/docs/remote/wsl-tutorial).
 
 ## 5. Installing R
-1. Install R if not already installed: https://cran.r-project.org/bin/windows/base/
-2. Install RStudio: https://www.rstudio.com/products/rstudio/download/#download
+1. Install R if not already installed linked [here](https://cran.r-project.org/bin/windows/base/).
+2. Install [RStudio](https://www.rstudio.com/products/rstudio/download/#download).
 3. Install tinytex _**in R**_
    ```r
    install.packages('tinytex')
