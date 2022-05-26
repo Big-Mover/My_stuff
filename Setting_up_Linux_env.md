@@ -50,15 +50,14 @@
    ```
 Try to starting a jupyter notebook `jupyter notebook`.  If you encounter "ImportError: cannot import name 'soft_unicode' from 'markupsafe'" then install marksafe `pip install MarkupSafe`. try it again.  If the issue is unresolved downgrade to the stable version `pip install markupsafe==2.0.1`. If there is an issue with the connection run this `echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf > /dev/null` to connect to google's DNS then you should be able to.
 
-2.a (less common packages)
-   ```powershell
+3. ```powershell
    pip3 install seaborn folium jupyterlab pyarrow
    ```
-3. ```powershell
+4. ```powershell
    cd /mnt/d/'Program Files'/GitHub/
    jupyter-lab
    ```
-4. Install spark
+5. Install spark
    ```powershell
    # install java
    sudo apt install openjdk-8-jdk -y
