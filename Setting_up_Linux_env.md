@@ -1,3 +1,5 @@
+## DON'T EVEN BOTHER, JUST SET UP PYTHON AND JUPYTER THROUGH VSCODE,
+
 ## 1. Installing WSL
 
 1. Open PowerShell as Administrator and run:
