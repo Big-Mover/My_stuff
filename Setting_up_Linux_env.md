@@ -1,4 +1,7 @@
-## DON'T EVEN BOTHER, JUST SET UP PYTHON AND JUPYTER THROUGH VSCODE,
+## Don't even bother. Just set up Python and Jupyter using VSCode.
+```python
+pip3 install pandas numpy matplotlib folium
+```
 
 ## 1. Installing WSL
 
